@@ -1,0 +1,22 @@
+# Hardhat files
+hardhat.config.*
+hardhat.config.ts
+hardhat.config.js
+hardhat.config.cjs
+
+# Test files
+test/
+tests/
+
+# Contract and build artifacts
+contracts/
+scripts/
+cache/
+artifacts/
+typechain-types/
+
+# Ignition deployment scripts
+ignition/
+
+# Node modules (should already be ignored)
+node_modules/ 
